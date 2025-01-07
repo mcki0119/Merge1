@@ -1,0 +1,277 @@
+City of Brockville
+
+2018 Budget
+
+November 7, 2017
+
+PROPOSED 2018
+CAPITAL PROJECTS
+
+BROCKVILLE
+
+CITY OF THE 1000 ISLANDS
+
+
+2018 Proposed Capital Budget
+
+
+
+a
+2.2 — Victoria Building Window Retrofit
+
+Projec
+
+Project Description:
+
+Phase 6 of City Hall Window Retrofit program to improve both energy efficiency and
+esthetic of all City Hall Windows.
+
+Project Rationale:
+
+The project originated from and Energy Audit of City Hall that recommended
+retrofitting the windows would increase energy efficiency and at the same time save
+money spent on heating and cooling. As the Ontario Heritage Trust has restrictions on
+changes to City Hall due to their funding of the restoration of the Clock Tower, it was
+not possible to replace the windows with new but to restore the original windows.
+
+& Rationale
+
+
+ee
+2.2 — Victoria Building Window Retrofit
+
+2020 onward
+
+Funding:
+Operating Fund 0 $150,000 $0
+Federal Gas Tax 100,000 0 0
+Debentures i 0 350,000
+
+Total Funding $100,000 $150,000 $350,000
+Expenditures:
+Construction $100,000 $150,000 $350,000
+
+Total Expenditures $100,000 $150,000 $350,000
+
+
+NON-CATEGORIZED
+
+
+OO
+10.1 — Computer Replacement Program
+
+& Rationale
+
+Proj ription:
+
+The intent of the computer replacement program is to provide for the replacement
+and upgrade of computer related hardware and software on a four year rotational
+basis.
+
+Project Rationale:
+
+The replacement program is based on a four (4) year lifecycle. There are two (2)
+categories of users: Primary & Secondary. Primary users are those staff who use
+their computer systems between eight (8) and twenty-four (24) hours per day. All
+other users are classified as secondary. Secondary users receive rebuilt
+equipment from end of cycle computers which are left over from primary users.
+MIS staff rebuilds the equipment and distributes it accordingly. This is performed
+on an as needed basis and helps to lower the total cost of ownership associated
+with Information Technology within the corporation.
+
+10.1 — Computer Replacement Program
+
+Project Budget
+
+2018 2019 2020 onward
+
+Funding:
+Operating Fund $89,300 $90,000 $922,500
+Water Fund 2,700 4,000 49,600
+Wastewater Fund 0 5,000 40,000
+Cost-sharing i) it) it)
+
+Total Funding $92,000 $99,000 $1,012,100
+Expenditures:
+Equipment $92.000 $99,000 $1,012,100
+
+Total Expenditures $92,000 $99,000 $1,012,100
+
+10.2 — Corporate Computer Systems
+
+Capital
+2018 2019 2020 onward
+Funding:
+Operating Fund $189,000 $150,750 $2,500,250
+Total Funding $189,000 $150,750 $2,500,250
+Expenditures:
+Equipment & Software $189,000 $150,750 $2,500,250
+
+Total Expenditures $189,000 $150,750 $2,500,250
+
+
+a
+10.2. — Corporate Computer Systems
+
+Project Description/Rationale | Amount |
+
+Rem ity’s in building WiFi
+
+Remove aa aes the City’s in building WiFi systems. The in building WiFi system
+
+provides wireless connectivity to staff and guests in the majority of our City offices. The
+
+current system is approaching the seven year mark and is due to be replaced. Current
+technology standards such as A/C are not available on the current equipment. Further, 46,000
+prices for wireless equipment have come down significantly and due to this we would
+
+be able to deploy more access points and deliver broader coverage at higher rates of
+
+speed.
+
+Document Management m — Ph:
+
+Purchase and deploy a corporate document management system. Project funding
+
+Phase 2. The purpose of this project is to purchase and deploy a document
+
+management system. The system is to provide a central repository for all City
+
+documents in digital form. The funding of this project would take a phased funding 50,000
+approach that would ask for $50,000 in 2017 and $50,000 in 2018. Phase 1 funding of
+
+$50,000 was approved during the 2017 budget process.
+
+Continued...
+
+a
+10.2. — Corporate Computer Systems
+
+Project Description/Rationale | Amount |
+
+Trend Micro Antivirus Enhan
+
+Ransomware is increasingly targeting servers. Attackers use known software
+
+vulnerabilities to inject ransomware which in turn compromises files and applications
+
+and is disruptive to City business. We already utilize the Trend Micro suite of products
+
+on our server and endpoint (PC’s) machines. Deploying the Integrity Monitoring 28,000
+product will help us in detecting and stopping malicious programs should they gain
+
+access to our systems before they can do damage. Further, we would like to extend
+
+the Antivirus protection we currently have to our fleet of mobile devices to ensure they
+
+have the same protection as other equipment utilized to conduct City business.
+
+Firewall Replacement - Police
+
+To replace a seven year old firewall appliance at the Brockville Police Service. The
+
+current firewall at Police headquarters and the corresponding unit at the Court house
+
+are well beyond their service lives. Since the installation of these units, there have
+
+been significant advances in terms of security and the availability of units that provide 25,000
+better services at a lower cost. It is imperative that the BPS keep up to date to ensure
+
+‘the protection of critical and confidential information.
+
+Continued...
+
+BT
+10.2. — Corporate Computer Systems
+
+Project Description/Rationale | Amount |
+
+Vadim Financial System Upgrade
+
+Vadim has changed their process for major software updates. Previously they would
+
+plan a major upgrade every 2 to 4 years, but this can be expensive if municipalities
+
+have to pay it out all at once. What Vadim is doing now is spreading the major upgrade 29,999
+over a few years. This is how the program will work: the upgrades will be module by
+
+module. Once a module is released, a municipality has 18 months to use the old
+
+version before it is no longer supported. These upgrades are mandatory.
+
+rity Appliance Intrusion Detection
+
+To purchase and deploy a network intrusion detection system to allow for more rapid
+identification and removal of malicious software within the corporate network. Intrusion
+Detection Systems automatically and accurately identify hidden infections in real time
+on live traffic. This tool will provide us with the means to identify, contain and nullify
+threats that exist on our network before they have a chance to spread. We currently
+employ standard practices of having firewalls and antivirus protection in place. The
+Intrusion Detection System is the third point in our triad of secutity services and will
+help us in ensuring confidentiality, Integrity, and availability of our data.
+
+It is our intent to deploy this product to provide countermeasures against Crypto
+Ransomware and other related threats. This product is one tool in the defense against
+the kind cyber threat that held the University of Calgary's data hostage.
+
+30,000
+
+Continued...
+
+|
+10.2. — Corporate Computer Systems
+
+Project Description/Rationale | Amount |
+
+IT Man: rvic ntré
+
+Through the RFP process, engage and retain managed services from a qualified IT
+service company to monitor the City’s critical infrastructure 24/7/365. The IT
+infrastructure of the City of Brockville is constantly changing and becoming more
+complex as it evolves. The addition of systems such as GIS, the expansion of
+software related support services, and criticality of data retention and backups, have
+outpaced ITS staff's ability to adequately monitor and provide service for our critical
+systems. The approach until now has been one of break fix which has higher cost
+implications on a per incident basis. 20,000
+The managed service would monitor our critical systems 24/7/365 and alert us during
+standard or non-standard business hours to situations that arise so they can be
+addressed before they become problematic. Operations such as the Brockville Fire
+Department, Water, and Waste Water, all depend on systems being available at all
+times. Taking a more proactive contracted approach would allow is to more readily
+regulate the costs of outside contractors. The procurement of this service would
+allow is to discontinue the use of current monitoring software that we have in place
+thus, eliminating a support contract cost of over $4,000.00 annually.
+
+Total $189,000
+
+10.4 — Minor Capital Projects
+
+2018 2019 2020 onward
+
+Funding:
+Operating Fund $97,750 $100,000 $680,000
+Water Fund 5,000 0 0
+Wastewater Fund 5,000 i} 0
+
+Total Funding $107,750 $100,000 $680,000
+Expenditures:
+Contracted Services $107,750 $100,000 $680,000
+
+Total Expenditures $107,750 $100,000 $680,000
+
+10.4 - Minor Capital Projects
+
+Department /
+Board
+
+Description Amount
+
+General Government + Council Chamber Desks.
+
+8,500
+Library + Wireless Router upgrade — staff network ~ Updated cost, 2,500
+MIs + Downtown Core WiFi — pending grant approval ag
+MIS + Arts Management Cloud at the BAC 709
+
+General Government + Upgrade Itron Software water meter reading nom
+
